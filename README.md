@@ -33,7 +33,7 @@ Submissions can be made using online IDEs such as [Replit](https://replit.com/) 
 
 ### Sample Layout
 
-![Admin Dashboard]((https://github.com/techcodedu/css_exercise_lorma/blob/main/WIREFRAME.PNG))
+![Admin Dashboard](https://github.com/techcodedu/css_exercise_lorma/blob/main/WIREFRAME.PNG)
 
 
 ## Assessment Criteria
