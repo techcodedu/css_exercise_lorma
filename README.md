@@ -31,6 +31,11 @@ Start with an HTML file that includes:
 ## Deliverables
 Submissions can be made using online IDEs such as [Replit](https://replit.com/) or [CodePen](https://codepen.io/). These platforms allow for easy sharing and review of the projects.
 
+### Sample Layout
+
+![Admin Dashboard](https://github.com/techcodedu/iventoryv1/blob/main/screenshot/manager.png)
+
+
 ## Assessment Criteria
 - Correct use of HTML elements and structure.
 - Effective application of CSS selectors, properties, and values.
