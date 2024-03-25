@@ -6,7 +6,7 @@
 
 **Week 1: Plan Your Website**
 
-1. **Team Up:** Find 1-2 partners for brainstorming and building.
+1. **Team Up:** Find 4 partners for brainstorming and building.
 2. **Pick an Idea:** Brainstorm what kind of website you want to make (e.g., about your hobbies, a game, showcasing your art).
 3. **Draw Your Website (Mockup):** Using paper, a drawing app, or an online tool, sketch how your website will look. Think about sections, images, and how users will navigate.
 4. **Responsive Design:** Discuss how your website should adjust for different screen sizes (phones, tablets, computers).
